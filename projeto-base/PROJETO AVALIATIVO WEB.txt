@@ -1,0 +1,216 @@
+PROJETO AVALIATIVO – DESENVOLVIMENTO WEB (HTML + CSS) – P1
+DATA DE ENTREGA: 19/04/2026
+Tema do Projeto
+Portal Turístico Interativo – “Descubra o Brasil”
+Os alunos deverão desenvolver um site completo voltado à divulgação de destinos turísticos brasileiros, com foco em organização de conteúdo, navegação intuitiva e aplicação correta de HTML5 semântico e CSS externo.
+Contextualização
+Uma agência fictícia de turismo chamada “Brasil Encantado” deseja lançar um portal online para apresentar destinos turísticos, cultura, gastronomia e experiências pelo país.
+A empresa quer um site moderno, organizado e responsivo (nível básico), contendo múltiplas páginas interligadas, recursos multimídia e boa estrutura semântica.
+O objetivo é atrair turistas nacionais e internacionais, oferecendo uma navegação clara e conteúdo visualmente atrativo.
+Formação dos Grupos
+•
+O projeto deve ser realizado em até 3 aluno(a)s
+•
+Todos os integrantes devem participar ativamente do desenvolvimento
+•
+Será avaliada a colaboração do grupo
+Requisitos Técnicos Obrigatórios
+Estrutura do Site
+O site deve conter no mínimo 4 páginas HTML, por exemplo:
+•
+index.html (Página inicial)
+•
+destinos.html
+•
+gastronomia.html
+•
+contato.html
+Elementos HTML obrigatórios
+Todas as páginas devem utilizar corretamente:
+•
+<header>
+•
+<nav>
+•
+<main>
+•
+<section>
+•
+<aside>
+•
+<footer>
+Menu de Navegação
+•
+Menu presente em todas as páginas
+•
+Links funcionando corretamente entre as páginas
+•
+Destaque visual para a página ativa
+CSS
+•
+Utilizar arquivo CSS externo (style.css)
+•
+Aplicar:
+o
+Cores
+o
+Tipografia
+o
+Espaçamentos
+o
+Layout (uso de Flexbox recomendado)
+•
+Evitar uso de CSS inline
+Imagens
+•
+Inserir no mínimo 6 imagens
+•
+Devem estar organizadas em uma pasta (/img)
+•
+Devem conter atributo alt
+Vídeos (YouTube)
+•
+Inserir pelo menos 2 vídeos do YouTube
+•
+Usar <iframe> - incorporado
+•
+Relacionados ao tema (turismo, cultura, etc.)
+Aside (Conteúdo complementar)
+•
+Utilizar <aside> para:
+o
+Curiosidades
+o
+Dicas de viagem
+o
+Informações extras
+Footer
+•
+Deve conter:
+o
+Nome do projeto
+o
+Integrantes do grupo
+o
+Ano
+o
+Contato fictício
+Organização do Projeto
+Estrutura esperada:
+/projeto-turismo │ ├── index.html ├── destinos.html ├── gastronomia.html ├── contato.html │ ├── css/ │ └── style.css │ ├── img/ │ └── (imagens do projeto) │ └── README.md
+Publicação no GitHub
+O projeto deve ser publicado utilizando o GitHub
+Requisitos:
+•
+Criar um repositório público
+•
+Nome do repositório: portal-turistico
+•
+Subir todos os arquivos do projeto
+•
+Ativar o GitHub Pages
+•
+Disponibilizar o link do site funcionando para o professor
+README obrigatório
+O repositório deve conter um arquivo README.md com:
+•
+Nome do projeto
+•
+Descrição
+•
+Integrantes do grupo
+•
+Link do site publicado
+Critérios de Avaliação
+Critério
+Pontos
+Estrutura HTML semântica
+2,0
+Uso correto de CSS externo
+2,0
+Navegação entre páginas
+1,5
+Organização de arquivos
+1,0
+Uso de imagens e vídeos
+1,5
+Layout e estética
+1,0
+Publicação no GitHub
+1,0
+Regras Importantes
+•
+Não será permitido copiar projetos prontos da internet
+•
+Projetos iguais entre grupos serão anulados
+•
+O site deve funcionar corretamente (links, imagens, etc.)
+•
+Entregas fora do prazo NÃO SERÃO ACEITAS.
+Diferenciais (Bônus)
+•
+Responsividade (uso de media queries)
+•
+Efeitos de hover
+•
+Animações simples em CSS
+•
+Layout mais elaborado
+Entrega
+•
+Data: 19/04/2026 até as 23:59
+•
+Enviar na tarefa do Teams:
+o
+Link do repositório no GitHub
+o
+Link do site publicado
+Apêndice A – GIT HUB
+Criar um Repositório Público
+Os alunos deverão criar um repositório na plataforma GitHub para armazenar e publicar o projeto.
+Passo a passo:
+1.
+Acessar o site do GitHub
+2.
+Fazer login na conta (ou criar uma conta gratuitamente)
+3.
+Clicar em “New repository” (Novo repositório)
+4.
+Preencher:
+o
+Nome: portal-turistico
+o
+Descrição: (opcional)
+5.
+Marcar a opção Public (Público)
+6.
+Clicar em Create repository
+Envio dos arquivos
+Após criar o repositório:
+•
+Fazer upload de todos os arquivos do projeto (HTML, CSS, imagens, etc.)
+•
+Manter a organização de pastas conforme solicitado
+Publicação do site (GitHub Pages)
+1.
+Acessar o repositório criado
+2.
+Ir em Settings (Configurações)
+3.
+Procurar a opção Pages
+4.
+Selecionar:
+o
+Branch: main
+o
+Pasta: /root
+5.
+Salvar
+O site será disponibilizado com um link público automaticamente
+Importante
+•
+O repositório deve ser público
+•
+Todos os integrantes + professor devem ter acesso
+•
+O link deverá ser enviado como parte da entrega
